@@ -7,7 +7,7 @@
 👉 [Open the live dashboard here] https://app.powerbi.com/view?r=eyJrIjoiNTAxNzZmODAtODQ2Yy00M2UyLTg1YzEtYmQ0YjgwMWZlODMxIiwidCI6ImFiNGQ0N2U3LWM3YTYtNDRlMy1iZGRmLTJlMTU5NDQ2MWVjOSJ9
 
 ### Download the Full Interactive File
-<a href="https://github.com/Manzoor2255/Chocolate-Sales-Dashboard/raw/main/Chocolate Sales Dashboard.pbix" download>
+<a href="[https://github.com/Manzoor2255/Chocolate-Sales-Dashboard/raw/main/Chocolate Sales Dashboard.pbix](https://github.com/Manzoor2255/chocolate-sales-dashboard/blob/main/Chocolate%20Sales%20Dashboard/Chocolate%20Sales%20Dashboard.pbix)" download>
   <img src="https://img.shields.io/badge/Download_ChocoLuxe_Dashboard.pbix-6B3E2E?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=3E1E0F" alt="Download PBIX"/>
 </a>
 
@@ -84,4 +84,5 @@ Made with ❤️ (and a lot of chocolate)
 
 
 ---
+
 
