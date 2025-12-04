@@ -7,7 +7,7 @@
 👉 [Open the live dashboard here] https://app.powerbi.com/view?r=eyJrIjoiNTAxNzZmODAtODQ2Yy00M2UyLTg1YzEtYmQ0YjgwMWZlODMxIiwidCI6ImFiNGQ0N2U3LWM3YTYtNDRlMy1iZGRmLTJlMTU5NDQ2MWVjOSJ9
 
 **Download the full Power BI file**  
-[![Download PBIX](https://img.shields.io/badge/Download-ChocoLuxe_Dashboard.pbix-brightgreen?style=for-the-badge)](ChocoLuxe_Dashboard.pbix)
+[![Download PBIX](https://img.shields.io/badge/Download-Chocolate Sales Dashboard.pbix-brightgreen?style=for-the-badge)](ChocoLuxe_Dashboard.pbix)
 
 ---
 
@@ -79,5 +79,6 @@ MIT License – go wild!
 
 Made with ❤️ (and a lot of chocolate)  
 *Your Name* – December 2025
+
 
 ---
